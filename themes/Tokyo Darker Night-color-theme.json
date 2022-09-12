@@ -803,7 +803,8 @@
 			"name": "JS/TS - Red",
 			"scope": [
 				"storage.type.function.arrow.js",
-				"storage.type.class.ts"
+				"storage.type.class.ts",
+				"storage.type.js",
 			],
 			"settings": {
 				"foreground": "#ff7a93",
@@ -813,6 +814,7 @@
 			"name": "JS/TS - Yellow",
 			"scope": [
 				"variable.parameter.js",
+				"string.quoted.double.js",
 				"meta.object-literal.key.js",
 				"meta.object.member.js",
 				"meta.objectliteral.js",
