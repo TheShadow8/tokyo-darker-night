@@ -1,0 +1,21 @@
+{
+  "name": "tokyo-darker-night",
+  "displayName": "Tokyo Darker Night",
+  "description": "Tokyo Darker Night for you",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Darker Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo Darker Night-color-theme.json"
+      }
+    ]
+  }
+}
