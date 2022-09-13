@@ -2,7 +2,7 @@
   "name": "tokyo-darker-night",
   "displayName": "Tokyo Darker Night",
   "description": "Tokyo Darker Night for you",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "MinhDo",
   "engines": {
     "vscode": "^1.71.0"
