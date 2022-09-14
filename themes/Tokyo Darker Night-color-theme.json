@@ -56,7 +56,6 @@
 		"list.inactiveFocusBackground": "#2E303E80",
 		"list.errorForeground": "#F43E5CE6",
 		"list.warningForeground": "#27D797B3",
-		"activityBar.dropBackground": "#6C6F9380",
 		"activityBar.foreground": "#D5D8DAB3",
 		"activityBarBadge.background": "#E95378",
 		"activityBarBadge.foreground": "#06060C",
@@ -206,6 +205,7 @@
 				"punctuation.definition.string.begin.go",
 				"punctuation.definition.string.end.go",
 				"string.quoted.double.go",
+				"string.quoted.raw.go",
 				"string.quoted.single.js",
 				"string.template.js",
 				"variable.parameter.js",
@@ -237,7 +237,6 @@
 			"scope": [
 				"variable.parameter.ts",
 				"variable.other.readwrite.ts",
-				"string.quoted.raw.go",
 				"entity.name.function.target.makefile"
 			],
 			"settings": {
