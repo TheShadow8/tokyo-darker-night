@@ -237,6 +237,7 @@
 			"scope": [
 				"variable.parameter.ts",
 				"variable.other.readwrite.ts",
+				"string.quoted.raw.go",
 				"entity.name.function.target.makefile"
 			],
 			"settings": {
@@ -302,7 +303,7 @@
 			}
 		},
 		{
-			"name": "JS/TS - Green",
+			"name": "Green",
 			"scope": [
 				"string",
 				"constant.other.symbol",
